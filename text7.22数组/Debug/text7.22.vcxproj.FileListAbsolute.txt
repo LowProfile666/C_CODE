@@ -1,0 +1,2 @@
+D:\c语言\text7.22\Debug\text7.22.exe
+D:\c语言\text7.22\Debug\text7.22.pdb

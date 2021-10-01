@@ -1,0 +1,2 @@
+D:\c语言\text7.29结构体\Debug\text7.29结构体.exe
+D:\c语言\text7.29结构体\Debug\text7.29结构体.pdb

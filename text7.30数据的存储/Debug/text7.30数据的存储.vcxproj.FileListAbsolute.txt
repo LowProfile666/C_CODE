@@ -1,0 +1,2 @@
+D:\c语言\text7.30数据的存储\Debug\text7.30数据的存储.exe
+D:\c语言\text7.30数据的存储\Debug\text7.30数据的存储.pdb

@@ -1,0 +1,2 @@
+D:\c语言\test79.9文件操作\Debug\test79.9文件操作.exe
+D:\c语言\test79.9文件操作\Debug\test79.9文件操作.pdb

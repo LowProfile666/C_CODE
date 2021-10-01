@@ -1,0 +1,4 @@
+D:\c语言\text7.18练习\Debug\text7.18练习.exe
+D:\c语言\text7.18练习\Debug\text7.18练习.pdb
+D:\c语言\text7.28练习\Debug\text7.28练习.exe
+D:\c语言\text7.28练习\Debug\text7.28练习.pdb
