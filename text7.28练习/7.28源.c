@@ -442,23 +442,25 @@
 //}
 
 //递归实现n的k次方
-double F(int n, int k)
-{
-	if (k < 0)
-		return (1/(F(n, -k)));//小数用整形的话会输出0，所以用double
-	else if ( k == 0)
-		return 1;
-	else if (n == 0)
-		return 0;
-	else
-		return n * F(n,k - 1);
-}
-double main()
-{
-	int n = 0;
-	int k = 0;
-	scanf("%d%d", &n, &k);
-	int ret=F(n, k);
-	printf("%d", ret);
-	return 0;
-}
+//double F(int n, int k)
+//{
+//	if (k < 0)
+//		return (1/(F(n, -k)));//小数用整形的话会输出0，所以用double
+//	else if ( k == 0)
+//		return 1;
+//	else if (n == 0)
+//		return 0;
+//	else
+//		return n * F(n,k - 1);
+//}
+//double main()
+//{
+//	int n = 0;
+//	int k = 0;
+//	scanf("%d%d", &n, &k);
+//	int ret=F(n, k);
+//	printf("%d", ret);
+//	return 0;
+//}
+
+
